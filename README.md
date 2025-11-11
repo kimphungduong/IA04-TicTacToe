@@ -29,7 +29,7 @@ The game supports move history, sorting, winner highlighting, and draw detection
 
 1. Clone this repository
 ```bash
-git clone https://github.com/<your-username>/tictac.git
+git clone https://github.com/kimphungduong/IA04-TicTacToe.git
 cd tictac 
 ```
 
